@@ -113,6 +113,7 @@ All tools need sharpening once in a while, so contribution is welcome. If you ju
 * [Scrutiny](https://peacockmedia.software/mac/scrutiny/index.html)
 * [Social Sizes](https://socialsizes.io/)
 * [WebScraper](https://peacockmedia.software/mac/webscraper/)
+* [Automatio - Nocode Automation](https://automatio.co)
 
 ### Front-end
 
